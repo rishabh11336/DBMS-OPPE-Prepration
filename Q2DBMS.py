@@ -1,3 +1,10 @@
+#Write a Python program to print the roll number of the student. Student's first name is given in a file named 'name.txt' resides in the same folder as
+#python program file.
+#The output of the python program is only roll number.  
+#For example, if the first name of the student is 'Vikas'. Then output must be CS01 only. Note: No spaces.
+
+
+
 import sys
 import os
 import psycopg2
