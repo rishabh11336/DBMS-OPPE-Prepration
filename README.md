@@ -1,8 +1,9 @@
 # DBMS-OPPE-Prepration
 All 8 question subscribe and like all thge video.
 
-```
 Q1:
+```
+https://youtu.be/BtIKDipsNng
 ```
 ```
 Q2:
