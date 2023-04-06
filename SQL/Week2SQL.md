@@ -20,5 +20,5 @@ select title from book_catalogue where publisher = 'McGraw Hill Education'
 
 Week 2: Practice Question 5
 ```
-select student_fname, student_lname from students where degree = 'M%'
+select student_fname, student_lname from students s, members m where s.roll_no = m.roll_no and member_type = 'PG'
 ```
