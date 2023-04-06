@@ -2,11 +2,11 @@
 
 #You have to iterate through the list and print each value separately as shown in the output below: 
 
-9789352921171
-9789351343202
-9789353333380
-The line function is given below:
-L2(x) = 2000 + 4*x
+#9789352921171
+#9789351343202
+#9789353333380
+#The line function is given below:
+#L2(x) = 2000 + 4*x
 
 
 
